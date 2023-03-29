@@ -6,9 +6,4 @@ def stroke(word):
     return str.upper(word)
 print(привет)
 
-'''Функция, которая делает заглавными первые буквы каждого слова в строке'''
-
-
-def stroke_2(word):
-    return str.title(word)
 
