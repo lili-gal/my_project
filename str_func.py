@@ -8,6 +8,6 @@ def stroke(word):
 '''Функция, которая делает заглавными первые буквы каждого слова в строке'''
 
 
-def stroke_2(word):
+def stroke_3(word):
     return str.title(word)
 
